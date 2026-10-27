@@ -1,0 +1,3 @@
+volcano.env
+.env.local
+*.log
